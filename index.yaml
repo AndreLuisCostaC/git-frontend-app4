@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  frontend-dep-app4:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-10-24T11:34:39.156020333-04:00"
+    description: A Helm chart for Kubernetes
+    digest: 82a9d36c6dc1948a02bd86034b06b8b9d3b91d7d2c7c84a724ff751a89d20dcf
+    name: frontend-dep-app4
+    type: application
+    urls:
+    - frontend-dep-app4-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-10-24T11:34:39.155028209-04:00"
